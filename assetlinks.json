@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "social.bassam.twa",
+                     "sha256_cert_fingerprints": ["24:C2:76:55:F0:B8:6F:21:F2:0E:7C:DB:69:66:C1:50:40:C5:61:83:F8:7B:CE:93:C2:06:61:70:1A:C0:85:B1"] }
+      }
+]

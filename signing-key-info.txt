@@ -1,0 +1,10 @@
+Keep this file and signing.keystore in a safe place. You'll need these files if you want to upload future versions of your PWA to the Google Play Store.
+
+Key store file: signing.keystore
+Key store password: aaB5_z8GUmeg
+Key alias: my-key-alias
+Key password: WF4Psdw7IRaq
+Signer's full name: بسّام Admin
+Signer's organization: شبكة بسّام للتواصل الاجتماعي
+Signer's organizational unit: Engineering
+Signer's country code: US
